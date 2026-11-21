@@ -1,5 +1,4 @@
-name: Build ExamBrowser APK Otomatis
-
+run-name: 
 on:
   push:
     branches: [ main, master, utama ]
